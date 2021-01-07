@@ -285,7 +285,7 @@ h2.featured:before {
 
 h2.super {
     margin-bottom: 1.5rem;
-    font-size: 4rem;
+    font-size: 6rem;
     font-weight: var(--h1-weight);
     line-height: 1.2;
     font-family: var(--h1-font);
@@ -1381,6 +1381,17 @@ aside {
     border: none;
 }
 
+.logotango {
+    font-size: 2.2rem;
+    font-weight: 700;
+    line-height: 1;
+    background-image: -webkit-linear-gradient(45deg, var(--secondary-color) 15%, var(--primary-color) 65%);
+    background-image: linear-gradient(45deg, var(--secondary-color) 15%, var(--primary-color) 65%);
+    -webkit-background-clip: text;
+    -moz-background-clip: text;
+         background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
 /* #endregion Helper Class */
 
 /*----------------------------------------------
@@ -3436,6 +3447,8 @@ footer .brand .logo {
          background-clip: text;
     -webkit-text-fill-color: transparent;
 }
+
+
 
 footer .brand .logo img {
     width: auto;
