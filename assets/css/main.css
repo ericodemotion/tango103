@@ -4011,7 +4011,7 @@ footer .copyright a:not(.btn) {
 
     body header .navbar-expand .navbar-nav a {
         padding: 10px 15px;
-        font-size: 0;
+        font-size: 1rem;
     }
 
     body header .navbar-expand .navbar-nav.action .btn i {
