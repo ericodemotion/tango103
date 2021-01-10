@@ -4268,19 +4268,7 @@ footer .copyright a:not(.btn) {
     body .card-columns {
         column-count: 1;
     }
-    
-    /* #endregion Feature */
-}
 
-@media(max-width: 374px) {
-
-    /* #region General */
-
-    body h1,
-    body .slide-content .title,
-    body h2.super {
-        font-size: 3rem;
-    }
     .on-the-fly-behavior-2 {
         opacity: 0!important;
         margin-bottom: 100px;
@@ -4295,6 +4283,20 @@ footer .copyright a:not(.btn) {
     .on-the-fly-behavior-3 {
 background-color: #f5f5f5;
     }
+    
+    /* #endregion Feature */
+}
+
+@media(max-width: 374px) {
+
+    /* #region General */
+
+    body h1,
+    body .slide-content .title,
+    body h2.super {
+        font-size: 3rem;
+    }
+
 
 
 
