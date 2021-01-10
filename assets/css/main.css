@@ -214,7 +214,7 @@ p:last-child {
 
 h1,
 .slide-content .title {
-    margin-top: 0;
+    margin-top: ;
     margin-bottom: 1.5rem;
     font-size: var(--h1-size);
     font-weight: var(--h1-weight);
