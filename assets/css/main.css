@@ -3972,6 +3972,9 @@ footer .copyright a:not(.btn) {
     body h2.featured:before {
         content: none;
     }
+
+
+
     
     /* #endregion General */
 
@@ -4278,7 +4281,23 @@ footer .copyright a:not(.btn) {
     body h2.super {
         font-size: 3rem;
     }
-    
+    .on-the-fly-behavior-2 {
+        opacity: 0!important;
+        margin-bottom: 100px;
+    }
+
+    .on-the-fly-behavior {
+        opacity: 0!important;
+        padding-top: 0px;
+        margin-bottom: 105px;
+    }
+
+    .on-the-fly-behavior-3 {
+background-color: #f5f5f5;
+    }
+
+
+
     /* #endregion General */
 }
 
